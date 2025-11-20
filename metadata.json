@@ -1,0 +1,7 @@
+{
+  "name": "MZ & RN Sales App",
+  "description": "Comprehensive sales and inventory management for MZ Badminton and Racket Nation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
